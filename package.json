@@ -12,6 +12,9 @@
   },
   "author": "Finn Pauls",
   "license": "MIT",
+  "dependencies": {
+    "x-finn-test": "5.1.0"
+  },
   "bugs": {
     "url": "https://github.com/finnp/test/issues"
   },
