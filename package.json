@@ -1,39 +1,24 @@
-    {
-  "name":                                                      "test",
-  "version": "8.3.1",
-  "description": "",
-  
-  
-  
-  
-  "main": "index.js",
-  "scripts": {
-    
-    
-                  "test": 
-    
-    
-    "echo \"Error: no test specified\" && exit 1"
-  },
-              "repository": {
-                    "type": "git",
-    "url": "https://github.com/finnp/test"
-  },
-  "author": 
-  
-  
-               "Finn Pauls",
-  "license":            
-               "MIT",
-  "dependencies": {
-                     "x-finn-test": 
-                         
-        "5.1.0"
-  },
-  "bugs": {
-    "url":  "https://github.com/finnp/test/issues"
-  },
-  "homepage":"https://github.com/finnp/test"
+{
+    "name": "test",
+    "version": "8.3.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/finnp/test"
+    },
+    "author": "Finn Pauls",
+    "license": "MIT",
+    "dependencies": {
+        "x-finn-test": "6.0.1"
+    },
+    "bugs": {
+        "url": "https://github.com/finnp/test/issues"
+    },
+    "homepage": "https://github.com/finnp/test"
 }
 
 
