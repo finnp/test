@@ -28,7 +28,7 @@
   "dependencies": {
                      "x-finn-test": 
                          
-        "5.1.0",
+        "5.1.0-alpha",
         "lodash":                                                   "~1.0.0",
              "hapi":"0.12"
   }, "devDependencies": { "standard": "1", "tape":"1.0.0"}
