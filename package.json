@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/finnp/test/issues"
   },
+  "greenkeeper": {
+    "directories": [
+      "packages/a"
+    ]
+  },
   "homepage": "https://github.com/finnp/test"
 }
