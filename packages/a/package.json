@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "3.0.0"
+    "x-finn-test": "1.0.0"
   }
 }
