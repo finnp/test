@@ -1,47 +1,33 @@
-    {
-  "name":        "test",
-  "version": "8.3.1",
-  "description": "4",
-
-
-
-
-  "main": "index.js",
-  "scripts": {
-
-
-                  "test":
-
-
-    "echo \"Error: no test specified\" && exit 1"
-  },
-              "repository": {
-                    "type": "git",
-    "url": "https://github.com/finnp/test"
-  },
-  "author":
-
-
-               "Finn Pauls",
-  "license":
-               "MIT",
-  "dependencies": {
-                     "x-finn-test":
-
-        "6.0.2-0",
-        "lodash":                                                   "~1.0.0",
-             "hapi":"0.12"
-  }, "devDependencies": { "standard": "1", "tape":"1.0.0"}
-  ,"bugs": {
-    "url":  "https://github.com/finnp/test/issues"
-  },
-  "bugs": {
-    "url": "https://github.com/finnp/test/issues"
-  },
-  "greenkeeper": {
-    "directories": [
-      "packages/a"
-    ]
-  },
-  "homepage": "https://github.com/finnp/test"
+{
+    "name": "test",
+    "version": "8.3.1",
+    "description": "4",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/finnp/test"
+    },
+    "author": "Finn Pauls",
+    "license": "MIT",
+    "dependencies": {
+        "x-finn-test": "6.0.2-0",
+        "lodash": "~4.14.0",
+        "hapi": "0.12"
+    },
+    "devDependencies": {
+        "standard": "1",
+        "tape": "1.0.0"
+    },
+    "bugs": {
+        "url": "https://github.com/finnp/test/issues"
+    },
+    "greenkeeper": {
+        "directories": [
+            "packages/a"
+        ]
+    },
+    "homepage": "https://github.com/finnp/test"
 }
