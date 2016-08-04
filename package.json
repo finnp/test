@@ -13,7 +13,7 @@
     "author": "Finn Pauls",
     "license": "MIT",
     "dependencies": {
-        "x-finn-test": "6.0.2-0",
+        "x-finn-test": "1.2.0",
         "lodash": "~4.14.0",
         "hapi": "0.12"
     },
