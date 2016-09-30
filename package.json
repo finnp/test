@@ -16,7 +16,7 @@
         "@finnpauls/test-package": "1.0.1",
         "x-finn-test": "6.0.0",
         "lodash": "~4.14.0",
-        "hapi": "0.12"
+        "hapi": "15.1.0"
     },
     "devDependencies": {
         "standard": "1",
