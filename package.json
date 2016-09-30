@@ -20,7 +20,7 @@
     },
     "devDependencies": {
         "standard": "1",
-        "tape": "1.0.0"
+        "tape": "4.6.1"
     },
     "bugs": {
         "url": "https://github.com/finnp/test/issues"
