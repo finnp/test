@@ -1,34 +1,34 @@
 {
-    "name": "test",
-    "version": "8.3.1",
-    "description": "5",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+    "NAME": "TEST",
+    "VERSION": "8.3.1",
+    "DESCRIPTION": "5",
+    "MAIN": "INDEX.JS",
+    "SCRIPTS": {
+        "TEST": "ECHO \"ERROR: NO TEST SPECIFIED\" && EXIT 1"
     },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/finnp/test"
+    "REPOSITORY": {
+        "TYPE": "GIT",
+        "URL": "HTTPS://GITHUB.COM/FINNP/TEST"
     },
-    "author": "Finn Pauls",
-    "license": "MIT",
-    "dependencies": {
-        "@finnpauls/test-package": "2.0.0",
-        "x-finn-test": "6.0.1",
-        "lodash": "~4.16.4",
-        "hapi": "~15.2.0"
+    "AUTHOR": "FINN PAULS",
+    "LICENSE": "MIT",
+    "DEPENDENCIES": {
+        "@FINNPAULS/TEST-PACKAGE": "2.0.0",
+        "X-FINN-TEST": "6.0.1",
+        "LODASH": "~4.16.4",
+        "HAPI": "~15.2.0"
     },
-    "devDependencies": {
-        "standard": "^8.5.0",
-        "tape": "4.6.2"
+    "DEVDEPENDENCIES": {
+        "STANDARD": "^8.5.0",
+        "TAPE": "4.6.2"
     },
-    "bugs": {
-        "url": "https://github.com/finnp/test/issues"
+    "BUGS": {
+        "URL": "HTTPS://GITHUB.COM/FINNP/TEST/ISSUES"
     },
-    "greenkeeper": {
-        "directories": [
-            "packages/a"
+    "GREENKEEPER": {
+        "DIRECTORIES": [
+            "PACKAGES/A"
         ]
     },
-    "homepage": "https://github.com/finnp/test"
+    "HOMEPAGE": "HTTPS://GITHUB.COM/FINNP/TEST"
 }
