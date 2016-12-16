@@ -20,7 +20,7 @@
     },
     "devDependencies": {
         "standard": "^8.5.0",
-        "tape": "4.6.2"
+        "tape": "4.6.3"
     },
     "bugs": {
         "url": "https://github.com/finnp/test/issues"
