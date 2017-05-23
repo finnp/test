@@ -15,12 +15,12 @@
     "dependencies": {
         "@finnpauls/test-package": "2.0.0",
         "x-finn-test": "6.0.1",
-        "lodash": "~4.16.4",
-        "hapi": "~15.2.0"
+        "lodash": "~4.17.4",
+        "hapi": "~16.1.1"
     },
     "devDependencies": {
-        "standard": "^8.5.0",
-        "tape": "4.6.2"
+        "standard": "^10.0.2",
+        "tape": "4.6.3"
     },
     "bugs": {
         "url": "https://github.com/finnp/test/issues"
