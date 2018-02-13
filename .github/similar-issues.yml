@@ -1,5 +1,0 @@
-template: |
-  Check this out:
-  {{#issues}}
-  - {{title}} #{{number}}
-  {{/issues}}
